@@ -51,7 +51,7 @@ h2{
     height: auto;
 }
 @media only screen and (max-width: 768px) {
-    img {
+    .secao img{
       max-width: 90%;
     }
   }
