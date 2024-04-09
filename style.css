@@ -47,12 +47,6 @@ h2{
     color: white;
 }
 .secao img{
-    max-width: 100%;
-    height: auto;
+   width: 800px;
+   height: 800px;
 }
-@media only screen and (max-width: 768px) {
-    .secao img{
-      max-width: 90%;
-    }
-  }
-  
