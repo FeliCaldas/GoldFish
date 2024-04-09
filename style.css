@@ -46,7 +46,7 @@ color: white;
 h2{
     color: white;
 }
-.secao img{
-   width: 800px;
-   height: 800px;
+.Imagem{
+  max-width: 90%;
+    height: auto;
 }
