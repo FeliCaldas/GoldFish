@@ -47,5 +47,7 @@ h2{
     color: white;
 }
 .Imagem{
-    max-width: 100%
+  max-width: 90%;
+    height: auto;
+
 }
